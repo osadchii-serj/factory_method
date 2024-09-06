@@ -10,5 +10,4 @@
 - interfaces - интерфейс
 - drinks - напитки
 
-![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml)
 
