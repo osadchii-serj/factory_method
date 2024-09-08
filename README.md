@@ -11,3 +11,5 @@
 - drinks - напитки
 
 
+
+![билет](https://github.com/Sergei-bit/telebot/blob/master/tickets/tickets.png)
