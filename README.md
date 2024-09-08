@@ -12,4 +12,4 @@
 
 
 
-![билет](https://github.com/Sergei-bit/telebot/blob/master/tickets/tickets.png)
+![структура](https://github.com/osadchii-serj/factory_method/tree/main/coffee_shop/img/CoffeeShop.svg)
