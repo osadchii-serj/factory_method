@@ -11,5 +11,9 @@
 - drinks - напитки
 
 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
-![структура](https://github.com/osadchii-serj/factory_method/tree/main/coffee_shop/img/CoffeeShop.svg)
+{username} — osadchii-serj;
+{repository} — factory_method;
+{branch} — main;
+{path} — coffee_shop/img/CoffeeShop.svg;
